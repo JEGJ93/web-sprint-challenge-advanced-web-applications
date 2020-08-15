@@ -28,9 +28,30 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain what a token is used for.
+
+  An access code that allows you to access the PrivateRoute that is linked to the API. 
+
 2. What steps can you take in your web apps to keep your data secure?
+
+  - Keep your Software Up-to-Date
+  - Strong Passwords
+  - Encrypt your Login pages
+  - Use a secure host
+  - Backup your data
+  - Scan website for vulnerabilities
+  - Hire a security expert
+
 3. Describe how web servers work.
+
+  The basic objectiveThe basic objective of the web server is to store, process and deliver web pages to the users.
+
 4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+ - CRUD
+ - Create (POST)
+ - Read (GET)
+ - Update (PUT)
+ - Delete (Delete)
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 

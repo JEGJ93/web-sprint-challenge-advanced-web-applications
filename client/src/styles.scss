@@ -97,3 +97,42 @@ form {
     margin-top: 16px;
   }
 }
+
+.bubble-animation {
+
+  width: 250px;
+  border-radius: 70px;;
+  height: 130px;
+  background-color: red;
+  position: relative;
+  left: 270px;
+  bottom: 100px;
+  animation-name: bubbly;
+  animation-duration: 4s;
+  animation-delay: 2s;
+  
+
+  @keyframes bubbly {
+    0%   {background-color:red; left:350px; top:0px;}
+    25%  {background-color:yellow; left:350px; top:0px;}
+    50%  {background-color:blue; left:500px; top:200px;}
+    75%  {background-color:green; left:600px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+
+}
+
+.login-form {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
+
+button {
+  width: auto;
+  margin: 5px 80px;
+}
+
+
+
+
